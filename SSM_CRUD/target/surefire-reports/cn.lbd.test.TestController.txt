@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cn.lbd.test.TestController
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.58 s <<< FAILURE! - in cn.lbd.test.TestController
+test(cn.lbd.test.TestController)  Time elapsed: 1.213 s  <<< ERROR!
+java.lang.NullPointerException
+	at cn.lbd.test.TestController.test(TestController.java:41)
+
